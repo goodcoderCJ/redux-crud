@@ -1,6 +1,6 @@
 # A SImple CRUD App Using Redux 
 
-This is a simple application that enables users to create their information,read,update and as well delete their info,in implementing its functionalities Redux state management library was used.
+This is a simple application that enables users to create their task,read,update and as well delete their info,in implementing its functionalities Redux state management library was used.
 
 ## Project Structure
 
